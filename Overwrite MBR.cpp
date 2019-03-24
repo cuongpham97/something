@@ -1,6 +1,3 @@
-
-Kudrin Kudrin
-1 năm trước
 #include <Window.h>
 #include <iostream>
 
